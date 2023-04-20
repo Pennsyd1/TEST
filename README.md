@@ -2,12 +2,15 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+In this project we analyzed data about consumer complaints received by the consumer financial protection bureau. We wanted to visualize the  following:
 
-- What was your motivation?
-- Why did you build this project? 
-- What problem does it solve?
-- What did you learn?
+- The proportion of response types
+- The  trend of the consumer complaints by month
+- A count of the complaints by product
+- The top 10 companies that received the most complaints.
+
+The data was found from the consumer data protection bureau and we took a csv from the website that we then cleaned and uploaded to a sql database.
+
 
 ## Installation
 
