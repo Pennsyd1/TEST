@@ -11,7 +11,7 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running:
    -Download and run etl.ipynb
    -Download and run create_and_load_sqlite_database.ipynb
    -Download the rest of the files app.py, app.js, and index.html
