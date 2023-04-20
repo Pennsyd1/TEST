@@ -1,4 +1,4 @@
-<p align="center"> ## Consumer Complaints </p>
+<h1 align="center"> ## Consumer Complaints </h1>
 
 ## Description
 
