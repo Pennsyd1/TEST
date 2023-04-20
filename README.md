@@ -1,5 +1,6 @@
+<p align="center>
 ## Consumer Complaints
-
+          </p>
 ## Description
 
 In this project data is analyzed about consumer complaints received by the Consumer Financial Protection Bureau. There are visualizations made for the  following:
@@ -28,13 +29,6 @@ What are the steps required to install your project? Provide a step-by-step desc
    
    
 In the HTML file the layout for the page is created as well as the ids that will hold the charts that visualize the data, D3.js, Plotly, and Chart.js are used as well. Finally in the app.js file the charts are created by calling on the api created from the app.py file and using functions to create the charts and display the data based on what product the user selects.
-
-<img width="432" alt="image" src="https://user-images.githubusercontent.com/118862894/233409582-79fbe265-c210-48db-b93a-562b9eabf3f7.png">
-<img width="222" alt="image" src="https://user-images.githubusercontent.com/118862894/233409736-d6d545dc-0c98-4c6d-bf73-102ea100bcef.png">
-<img width="432" alt="image" src="https://user-images.githubusercontent.com/118862894/233409913-15a72563-e4c5-4263-a676-f2d0962f9387.png">
-<img width="457" alt="image" src="https://user-images.githubusercontent.com/118862894/233410099-7189d23e-be71-4351-80e8-c7db39d891bc.png">
-
-In the final view of the html a drop down is featured that filters ache graph based on product type, and the general
 
 <img width="958" alt="image" src="https://user-images.githubusercontent.com/118862894/233416495-ea8058af-ed0c-486c-abbd-f22fb2114a68.png">
 
