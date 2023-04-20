@@ -1,6 +1,6 @@
-<p align="center>
+<p align="center">
 ## Consumer Complaints
-          </p>
+</p>
 ## Description
 
 In this project data is analyzed about consumer complaints received by the Consumer Financial Protection Bureau. There are visualizations made for the  following:
